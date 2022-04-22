@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">daniilss18019262_cs6002_app1</string>
+    <string name="type_your_key_here">Type your key here...</string>
+    <string name="enter_your_password_here">Enter your password here..</string>
+    <string name="actual_password">Actual Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="retrieve_password">Retrieve Password</string>
+    <string name="encrypted_password">Encrypted Password</string>
+    <string name="encrypted_pwd">Encrypted Pwd</string>
+    <string name="string_actual_pwd" />
+    <string name="actual_pwd">Actual Pwd</string>
+</resources>
